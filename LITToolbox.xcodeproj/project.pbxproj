@@ -76,6 +76,7 @@
 		9B0D4CDA18F52E2000981B6B /* LITFileUtility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LITFileUtility.m; sourceTree = "<group>"; };
 		9B0D4CDC18F52E8400981B6B /* LITBlockAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LITBlockAlertView.h; sourceTree = "<group>"; };
 		9B0D4CDD18F52E8400981B6B /* LITBlockAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LITBlockAlertView.m; sourceTree = "<group>"; };
+		9B0D4CDF18F545EC00981B6B /* LITHeaders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LITHeaders.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +181,7 @@
 		9B0D4CC718F52CE200981B6B /* sourceFiles */ = {
 			isa = PBXGroup;
 			children = (
+				9B0D4CDF18F545EC00981B6B /* LITHeaders.h */,
 				9B0D4CC818F52CE200981B6B /* Additions */,
 				9B0D4CC918F52CE200981B6B /* Utilities */,
 			);
@@ -539,6 +541,7 @@
 				9B0D4CC318F52C6C00981B6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9B0D4CC418F52C6C00981B6B /* Build configuration list for PBXNativeTarget "LITToolboxTests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +550,7 @@
 				9B0D4CC618F52C6C00981B6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
